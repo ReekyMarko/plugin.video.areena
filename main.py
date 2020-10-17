@@ -7,7 +7,7 @@ import sys
 import urllib
 import json
 import base64
-from urllib.parse import parse_qsl
+import urllib.parse_qsl
 import datetime
 import time
 import re
