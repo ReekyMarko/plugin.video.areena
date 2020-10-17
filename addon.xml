@@ -5,7 +5,7 @@
        provider-name="Toni Lappalainen">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.pyaes" version="1.6.1+matrix"/>
+        <import addon="script.module.pyaes" version="1.6.1+matrix.1"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
